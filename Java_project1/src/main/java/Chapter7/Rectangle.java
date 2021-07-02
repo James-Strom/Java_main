@@ -1,0 +1,24 @@
+///*
+// * To change this license header, choose License Headers in Project Properties.
+// * To change this template file, choose Tools | Templates
+// * and open the template in the editor.
+// */
+//package Chapter7;
+//
+///**
+// *
+// * @author james
+// */
+////listing 2
+//// A subclass of TwoDShape for rectangles. 
+//class Rectangle extends TwoDShape { 
+//  boolean isSquare() { 
+//    if(width == height) return true; 
+//    return false; 
+//  } 
+//   
+//  double area() { 
+//    return width * height; 
+//  } 
+//}
+//
