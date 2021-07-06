@@ -6,9 +6,6 @@
 package Listing_14_17;
 
 // A dynamic queue. 
-
-import Listing_16.*;
-// A dynamic queue. 
 class DynQueue implements Listing_13.ICharQ {    
   private char q[]; // this array holds the queue    
   private int putloc, getloc; // the put and get indices    
