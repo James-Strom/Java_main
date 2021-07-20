@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section3/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/Section3/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/Section3/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/Section3/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Section3/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/PrimitiveTypeChallenge2/PrimitiveTypeChallenge2.iml" filepath="$PROJECT_DIR$/Section3/PrimitiveTypeChallenge2/PrimitiveTypeChallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_project_2_master.iml" filepath="$PROJECT_DIR$/.idea/java_project_2_master.iml" />
+    </modules>
+  </component>
+</project>
