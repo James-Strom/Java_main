@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PackageChallenge:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9df54ee1-1d00-4a53-b536-c452de93af41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/libraries/PackageDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/GameTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameTest/src/com/example/mypackage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/artifacts/PackageDemo_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/PackageDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/src/com/example/game/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/src/com/example/game/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PackageDemo/src/com/example/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Packages/Packages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PackageChallenge_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PackageChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/mypackage/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/WinDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/src/com/example/awtSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WinDemo/src/com/example/awtSample/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Section7/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Porsche.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Porsche.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/out/production/InheritanceChallenge/academy/learnprogramming/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Outlander.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Outlander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Porsche.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Porsche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section6/InheritanceChallenge/src/academy/learnprogramming/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Section7/Composition/src/academy/learnprogramming/Vehicle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1y7mQVHJanZqnTjSGKt4aIO0G3C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df54ee1-1d00-4a53-b536-c452de93af41" name="Changes" comment="" />
+      <created>1631610992995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631610992995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
