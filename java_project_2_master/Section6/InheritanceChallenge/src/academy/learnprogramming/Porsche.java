@@ -2,24 +2,26 @@ package academy.learnprogramming;
 
 public class Porsche extends Car{
 
-    private int turbo;
+    private boolean turbo;
 
-    public Porsche(String steering, String brakes, int wheels, int speed, int turbo) {
-        super(steering, brakes, wheels, speed);
+    public Porsche(String name, String size, int wheels, int doors, int gears, boolean isManual, boolean turbo) {
+        super("Porsche", "2", 4, 2, 6, false);
         this.turbo = turbo;
     }
 
-    public void horsePower(int speed) {
-        speed = speed + turbo;
-        speed = speed;
-        System.out.println("Porsche speed is " + speed);
+    public void turboSpeed(int speed) {
+        if(turbo) {
+            System.out.println("This Porsche has turbo: " + this.turbo);
+        } else {
+            System.out.println("This Porsche has turbo: " + this.turbo);
+        }
     }
 
-    public int getTurbo() {
+    public boolean isTurbo() {
         return turbo;
     }
 
-    public void setTurbo(int turbo) {
+    public void setTurbo(boolean turbo) {
         this.turbo = turbo;
     }
 }
