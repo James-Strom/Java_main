@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[] array = {1,2,5,171,8}; 
+        int[] array = {1,2,5,171,8};
 
         System.out.println("Array = " + Arrays.toString(array));
 
