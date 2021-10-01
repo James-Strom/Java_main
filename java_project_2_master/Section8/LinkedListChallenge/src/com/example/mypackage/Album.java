@@ -2,6 +2,7 @@ package com.example.mypackage;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 
 public class Album {
     private String name;
@@ -41,7 +42,7 @@ public class Album {
         return false;
     }
 
-    public boolean addToPlayList(String title, LinkedList<Song> playList) {
+    public boolean addToPlayList(String title, List<Song> playList) {
         Song checkedSong = findSong(title);
         if(checkedSong != null) {
             playList.add(checkedSong);
